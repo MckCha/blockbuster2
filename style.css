@@ -1,0 +1,39 @@
+body {
+    font-size: 20px;
+    font-variant: small-caps;
+    color: FFCC00;
+    background-color: 1030AD;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    font-family: Impact, fantasy;
+    font-weight: bold;
+    color: FFCC00;
+    background-color: 1030AD;
+    text-align: center;
+    border-style: solid;
+    border-color: FFCC00;
+}
+h3 {
+    color: FFCC00;
+    background-color: 1030AD;
+    text-align: right;
+}
+h4 {
+    color: FFCC00;
+    background-color: 1030AD;
+    text-align: center;
+}
+a {
+    color: FFCC00;
+}
+form {
+    font-size: 20px;
+    color: FFCC00;
+    background-color: 1030AD;
+}
+hr {
+    color: FFCC00;
+}
